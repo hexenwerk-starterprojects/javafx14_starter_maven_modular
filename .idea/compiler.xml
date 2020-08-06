@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="javafx14starter_Maven_modular" />
         <module name="hellofx" />
       </profile>
     </annotationProcessing>
