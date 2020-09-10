@@ -3,10 +3,31 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="41cb7995-1c08-4c9a-b5a1-155ae8bd2240" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hellofx.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,14 +37,23 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="s1-dev" />
+    <option name="namespace" value="default" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="C:\Users\j.kotek\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\202.6397.94\plugins\maven\lib\maven3" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="C:\Users\j.kotek\.m2\settings_MVN.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="11_ZuluOpenJDK" />
+  </component>
   <component name="ProjectId" id="1fk2633CfRX0hOwv4HW6Fz0salL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="compactDirectories" value="true" />
@@ -36,14 +66,15 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15230961" />
     <property name="project.structure.side.proportion" value="0.34252873" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
   </component>
   <component name="RunManager">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.openjfx.App" />
-      <module name="javafx14starter_Maven_modular" />
+      <module name="hellofx" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.openjfx.*" />
@@ -69,16 +100,50 @@
       <option name="presentableId" value="Default" />
       <updated>1596747591097</updated>
       <workItem from="1596747592244" duration="170000" />
+      <workItem from="1599720344659" duration="152000" />
+      <workItem from="1599720509277" duration="909000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="440" y="94" key="SettingsEditor" timestamp="1596747762253">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="358" y="-1854" key="FileChooserDialogImpl" timestamp="1599720395424">
+      <screen x="-882" y="-2160" width="3840" height="2160" />
     </state>
+    <state x="358" y="-1854" key="FileChooserDialogImpl/0.0.1856.1080/-882.-2160.3840.2160@-882.-2160.3840.2160" timestamp="1599720395424" />
+    <state width="1897" height="651" key="GridCell.Tab.0.bottom" timestamp="1599721375753">
+      <screen x="-882" y="-2160" width="3840" height="2160" />
+    </state>
+    <state width="1897" height="651" key="GridCell.Tab.0.bottom/0.0.1856.1080/-882.-2160.3840.2160@-882.-2160.3840.2160" timestamp="1599721375753" />
+    <state width="1897" height="651" key="GridCell.Tab.0.center" timestamp="1599721375753">
+      <screen x="-882" y="-2160" width="3840" height="2160" />
+    </state>
+    <state width="1897" height="651" key="GridCell.Tab.0.center/0.0.1856.1080/-882.-2160.3840.2160@-882.-2160.3840.2160" timestamp="1599721375753" />
+    <state width="1897" height="651" key="GridCell.Tab.0.left" timestamp="1599721375752">
+      <screen x="-882" y="-2160" width="3840" height="2160" />
+    </state>
+    <state width="1897" height="651" key="GridCell.Tab.0.left/0.0.1856.1080/-882.-2160.3840.2160@-882.-2160.3840.2160" timestamp="1599721375752" />
+    <state width="1897" height="651" key="GridCell.Tab.0.right" timestamp="1599721375753">
+      <screen x="-882" y="-2160" width="3840" height="2160" />
+    </state>
+    <state width="1897" height="651" key="GridCell.Tab.0.right/0.0.1856.1080/-882.-2160.3840.2160@-882.-2160.3840.2160" timestamp="1599721375753" />
+    <state x="-2" y="-1965" width="1161" height="708" key="SettingsEditor" timestamp="1599721421855">
+      <screen x="-882" y="-2160" width="3840" height="2160" />
+    </state>
+    <state x="-2" y="-1965" width="1161" height="708" key="SettingsEditor/0.0.1856.1080/-882.-2160.3840.2160@-882.-2160.3840.2160" timestamp="1599721421855" />
     <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1596747762253" />
   </component>
 </project>
